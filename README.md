@@ -5,6 +5,6 @@ This repository contains homework for [Oracle Massive Open Online Course: Java S
 The course is an introduction to Lambda Expressions and the Streams API. The focus of this course is to familiarize you with functional programming in the Java programming language.
 
 This course consists of 3 lessons:
-1. Lambda Expressions
+1. [Lambda Expressions](W1)
 2. Introduction to the Streams API
 3. Advanced Lambda and Stream Concepts
