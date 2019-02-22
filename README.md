@@ -6,5 +6,5 @@ The course is an introduction to Lambda Expressions and the Streams API. The foc
 
 This course consists of 3 lessons:
 1. [Lambda Expressions](W1)
-2. Introduction to the Streams API
-3. Advanced Lambda and Stream Concepts
+2. [Introduction to the Streams API](W2)
+3. [Advanced Lambda and Stream Concepts](W3)
